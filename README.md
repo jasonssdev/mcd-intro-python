@@ -1,7 +1,6 @@
 # MCD - Introduction to Programming in Python
 
-> Week 1 activity – Python basics, testing, and project structure  
-> Master's program course - Universidad de Chile (Coursera)
+> Master's program - Pontificia Universidad Católica de Chile (Coursera)
 
 [![Tests](https://github.com/jasonssdev/mcd-intro-python/actions/workflows/python-tests.yml/badge.svg)](https://github.com/jasonssdev/mcd-intro-python/actions)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
@@ -10,11 +9,11 @@
 
 ---
 
-## 🏠 Course Overview
+## 🏠 Module 1
 
 Welcome to **Week 1** of the course. In this first module, we focus on fundamental programming concepts using Python, including writing functions, unit testing, and professional project structure.
 
-### 🌐 Course Objectives
+### 🌐 Module Objectives
 
 - Identify key course resources: introductory video, discussion forum, and syllabus.
 - Install and configure Python locally.
