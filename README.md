@@ -9,18 +9,25 @@
 
 ---
 
-## 🏠 Module 1
+## 🏠 Week 1
 
-Welcome to **Week 1** of the course. In this first module, we focus on fundamental programming concepts using Python, including writing functions, unit testing, and professional project structure.
+* Identificar los recursos generales del curso: Video de introducción, Foro de presentación y Syllabus con la información general del curso.
+* Completar la instalación y configuración de Python en el computador propio.
+* Emplear Coursera para resolver ejercicios simples empleando Python.
+* Definir la estructura secuencial lista y sus operaciones y métodos que pueden ocuparse en Python.
+* Interpretar diferentes soluciones de código que usan tuplas para resolver problemas con múltiples datos.
+* Definir la estructura secuencial tupla y sus operaciones y métodos que pueden ocuparse en Python
+* Desarrollar soluciones de código a problemas con varios datos, usando tuplas y listas.
 
-### 🌐 Module Objectives
+## Week 2
 
-- Identify key course resources: introductory video, discussion forum, and syllabus.
-- Install and configure Python locally.
-- Use Coursera to complete simple Python exercises.
-- Define and work with `list` and `tuple` structures and their operations/methods.
-- Interpret various code solutions using sequential structures.
-- Write functions to solve problems involving multiple values.
+* Distinguir qué es una lista de listas y cómo acceder a cada elemento.
+* Modelar datos que tienen varias dimensiones, en una representación que utilice listas de listas.
+* Demostrar cómo recorrer una lista de listas
+* Descubrir mecanismos de resolución de problemas con datos en varias dimensiones, empleando listas de listas.
+* Interpretar diferentes soluciones de código que usan listas de listas para resolver problemas.
+* Desarrollar un algoritmo para resolver un problema concreto que utiliza datos en varias dimensiones, utilizando listas de listas.
+* Proponer estrategias de solución para resolver problemas en Python usando listas de listas.
 
 ---
 
