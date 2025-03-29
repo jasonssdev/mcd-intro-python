@@ -1,9 +1,8 @@
 import sys
 import os
-
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'src')))
 
-from w1_activity import (
+from src.w1_activity import (
     calcular_promedio,
     agregar_entero,
     contar_repeticiones,
