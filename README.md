@@ -29,6 +29,16 @@
 * Desarrollar un algoritmo para resolver un problema concreto que utiliza datos en varias dimensiones, utilizando listas de listas.
 * Proponer estrategias de solución para resolver problemas en Python usando listas de listas.
 
+## Week 3
+
+* Distinguir qué es un stack y una queue, qué aplicaciones reales tienen, y cómo se implementan en Python
+* Aplicar el concepto y operaciones de tipos de datos secuenciales para construir soluciones computacionales.
+* Desarrollar soluciones de código a problemas de stacks y queues.
+* Modelar la resolución de problemas en que los datos tienen un comportamiento tipo LIFO, usando stacks.
+* Modelar la resolución de problemas en que los datos tienen un comportamiento tipo FIFO, usando queues.
+* Comparar diferentes soluciones de código que usan stacks y queues para resolver problemas.
+* Desarrollar soluciones de código a problemas utilizando estructuras de datos secuenciales stacks y queues.
+
 ---
 
 ## 📁 Project Structure
@@ -38,10 +48,13 @@ mcd-intro-python/
 ├── data/                   # Data files (if applicable)
 ├── notebooks/             # Jupyter Notebooks
 │   └── w1_jss_sumativa1.ipynb
+│   └── ...
 ├── src/                   # Source code
 │   └── w1_activity.py
+│   └── ...
 ├── tests/                 # Unit tests with pytest
 │   └── test_w1_activity.py
+│   └── ...
 ├── .github/workflows/     # GitHub Actions workflows
 │   └── python-tests.yml
 ├── .vscode/               # VS Code configuration
