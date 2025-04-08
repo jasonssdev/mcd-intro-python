@@ -39,6 +39,17 @@
 * Comparar diferentes soluciones de código que usan stacks y queues para resolver problemas.
 * Desarrollar soluciones de código a problemas utilizando estructuras de datos secuenciales stacks y queues.
 
+## Week 4
+
+* Aplicar el concepto y operaciones de tipos de datos no secuenciales para construir soluciones computacionales.
+* Describir qué es un set y un diccionario en Python, qué aplicaciones reales tienen, y cómo se usan.
+* Desarrollar una solución a un problema concreto que requiere guardar datos de forma no secuencial, utilizando sets y/o diccionarios.
+* Describir qué es un set en Python, qué aplicaciones reales tiene, y cómo se usa.
+* Modelar la resolución de problemas que requieren guardar datos de forma no secuencial, utilizando sets en Python.
+* Describir qué es un diccionario en Python, qué aplicaciones reales tiene, y cómo se usa.
+* Modelar la resolución de problemas que requieren guardar datos de forma no secuencial, utilizando Diccionarios en Python.
+* Comparar diferentes soluciones de código que usan sets y diccionarios para resolver problemas.
+
 ---
 
 ## 📁 Project Structure
