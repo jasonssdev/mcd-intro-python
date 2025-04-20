@@ -50,6 +50,17 @@
 * Modelar la resolución de problemas que requieren guardar datos de forma no secuencial, utilizando Diccionarios en Python.
 * Comparar diferentes soluciones de código que usan sets y diccionarios para resolver problemas.
 
+## Week 5
+
+* Expresar una representación con orientación a objetos para diferentes tipos de datos propios.
+* Modelar atributos y métodos para tipos propios utilizando orientación a objetos.
+* Desarrollar soluciones de código a problemas definiendo tipos propios simples, con atributos y métodos, en Python.
+* Modelar tipos propios usando orientación a objetos.
+* Comparar diferentes soluciones de código que proponen la definición de tipos propios en Python.
+* Modelar métodos para tipos propios utilizando orientación a objetos.
+* Comparar diferentes soluciones de código que proponen la definición de tipos propios con métodos en Python.
+* Definir métodos para tipos propios en Python.
+
 ---
 
 ## 📁 Project Structure
