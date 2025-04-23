@@ -61,6 +61,16 @@
 * Comparar diferentes soluciones de código que proponen la definición de tipos propios con métodos en Python.
 * Definir métodos para tipos propios en Python.
 
+## Week 6
+
+* Expresar una representación con orientación a objetos para tipos de datos propios que involucren colecciones de objetos.
+* Demostrar cómo y en qué situaciones se puede usar overriding de métodos y herencia en Python.
+* Desarrollar una solución a un problema concreto, modelando tipos de datos complejos (incluyendo colecciones, herencia, overriding de métodos) en Python
+* Analizar la resolución de problemas complejos con orientación a objetos en Python.
+* Modelar tipos propios para resolver problemas aplicados en Python.
+* Comparar diferentes soluciones de código que utilizan tipos propios con herencia y overriding en Python.
+* Modelar tipos de datos complejos, usando overriding y herencia.
+
 ---
 
 ## 📁 Project Structure
