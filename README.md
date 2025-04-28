@@ -71,11 +71,18 @@
 * Comparar diferentes soluciones de código que utilizan tipos propios con herencia y overriding en Python.
 * Modelar tipos de datos complejos, usando overriding y herencia.
 
+## Week 7
+
+* Explicar el concepto de recursión y cómo se hacen los llamados recursivos en una función.
+* Definir una función recursiva en Python.
+* Modelar un algoritmo utilizando recursión.
+* Comparar diferentes soluciones de código que utilizan recursión en Python.
+
 ---
 
 ## 📁 Project Structure
 
-```
+```markdown
 mcd-intro-python/
 ├── data/                   # Data files (if applicable)
 ├── notebooks/             # Jupyter Notebooks
@@ -135,6 +142,7 @@ PYTHONPATH=src pytest --cov=src --cov-report=term-missing
 ```bash
 make coverage-html
 ```
+
 This will open `htmlcov/index.html` in your browser.
 
 ### 🛋️ Clean temporary test files
