@@ -78,6 +78,14 @@
 * Modelar un algoritmo utilizando recursión.
 * Comparar diferentes soluciones de código que utilizan recursión en Python.
 
+## Week 8
+
+* Modelar un problema real utilizando herramientas de Python, como diferentes tipos de datos y estructuras de datos.
+* Planificar un algoritmo que resuelva un problema real, utilizando diversas herramientas de programación en Python, como estructuras de datos, tipos de datos y recursión.
+* Desarrollar una solución a un problema concreto, que utiliza datos simulados o reales, utilizando estructuras de datos y algoritmos apropiados.
+* Comparar diferentes soluciones de código en Python que solucionan problemas reales, utilizando estructuras de datos, tipos de datos y/o recursión.
+* Interpretar las estrategias para resolver problemas aplicados en Python.
+
 ---
 
 ## 📁 Project Structure
